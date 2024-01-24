@@ -11,8 +11,8 @@
     </abc>
 </h2>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
+<h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -27,6 +27,10 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Web Programmer currently exploring JavaScript - :hourglass_flowing_sand: Exploring ReactJS & ExpressJS - :rocket: Always ready to collaborate for Dev Experiments - :man_technologist: Former Project Lead
-Intern at GirlScript Foundation - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" - :zap: Fun fact: I love to attend Meetups for learning &
-Conferences for Networking<br />
+- :computer: I'm a Web Programmer currently exploring JavaScript
+- :hourglass_flowing_sand: Exploring ReactJS & ExpressJS
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :dart: Life Hack: "Explore
+- :fire: and Explode :bomb: with knowledge"
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br />
