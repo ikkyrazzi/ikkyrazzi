@@ -31,6 +31,5 @@
 - :hourglass_flowing_sand: Exploring ReactJS & ExpressJS
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore
-- :fire: and Explode :bomb: with knowledge"
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br />
