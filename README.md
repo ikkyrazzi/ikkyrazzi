@@ -19,7 +19,7 @@
 
 <ul>
     <li>🔭 I'm currently studying at <strong>Institut Bisnis dan Informatika (IBI) Kosgoro 1957</strong>.</li>
-    <li>🌱 I'm currently learning <strong>Web Programming</strong>.</li>
+    <li>🌱 I'm currently learning <strong>Full Stack JavaScript</strong>.</li>
     <li>💬 Ask me about <strong>HTML, CSS, PHP, Laravel, JavaScript</strong>.</li>
     <li>📫 How to reach me: <strong>muhamadrizkyherdiansyah@gmail.com</strong>.</li>
     <li>⚡ Fun fact: <strong>I think I'm handsome</strong>.</li>
