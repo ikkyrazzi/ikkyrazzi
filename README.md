@@ -4,8 +4,11 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ikkyrazzi&label=Profile%20views&color=0e75b6&style=flat" alt=ikkyrazzi" /></p>
 
-- 🔭 I'm currently studying at **Institut Bisnis dan Informatika (IBI) Kosgoro 1957**. - 🌱 I'm currently learning **Web Programmer** - 💬 Ask me about **HTML, CSS, PHP, Laravel, Java Script** - 📫 How to reach me
-**muhamadrizkyherdiansyah@gmail.com** - ⚡ Fun fact **I think I'am handsome**
+- 🔭 I'm currently studying at **Institut Bisnis dan Informatika (IBI) Kosgoro 1957**.
+- 🌱 I'm currently learning **Web Programmer**
+- 💬 Ask me about **HTML, CSS, PHP, Laravel, Java Script**
+- 📫 How to reach me **muhamadrizkyherdiansyah@gmail.com**
+- ⚡ Fun fact **I think I'am handsome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
