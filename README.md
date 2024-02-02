@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizky Herdiansyah Hasan</h1>
 <h3 align="center">A passionate Web Programmer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
+<div align="center">
+            <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" />
+        </div>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ikkyrazzi&label=Profile%20views&color=0e75b6&style=flat" alt=ikkyrazzi" /></p>
 
 - 🔭 I'm currently studying at **Institut Bisnis dan Informatika (IBI) Kosgoro 1957**.
