@@ -1,72 +1,123 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-
 <h1 align="center">Hi 👋, I'm Muhammad Rizky Herdiansyah Hasan</h1>
-<h3 align="center">A passionate Web Programmer from Indonesia</h3>
+<h3 align="center">🚀 Fullstack Developer | Laravel • Vue • System & SaaS Builder</h3>
 
-<div align="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ikkyrazzi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🧠 About Me
+
+I’m a Fullstack Developer focused on building **scalable web applications & internal systems**.
+
+💡 I don’t just write code — I design and build **complete systems**:
+
+* Backend architecture (Laravel)
+* Frontend apps (Vue.js)
+* API integrations
+* Deployment (VPS & Docker)
+
+Currently moving towards:
+
+> ⚙️ **SaaS Architecture • Scalable Systems • DevOps (AWS & Kubernetes)**
+
+---
+
+## 🏗️ What I Build
+
+* 🧾 **HRIS System** → Payroll, attendance, employee management
+* 🎫 **Ticketing System** → Helpdesk workflow (Jira-like)
+* 📡 **Monitoring System (NOC)** → Device tracking & real-time status
+* 📊 **Dashboard & Reporting** → Business insights & analytics
+
+---
+
+## ⚡ Tech Stack
+
+### Backend
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikkyrazzi&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikkyrazzi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikkyrazzi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikkyrazzi&theme=tokyo-night" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+* 🔧 Building **multi-company SaaS systems**
+* 🐳 Improving **Docker-based deployment**
+* ☁️ Learning **AWS & Kubernetes**
+* ⚡ Optimizing **performance & scalable architecture**
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ikkyrazzi&label=Profile%20views&color=0e75b6&style=flat" alt="ikkyrazzi" />
+<a href="https://linkedin.com/in/muhamad-rizky-herdiansyah-7b602827a/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+</a>
+<a href="https://instagram.com/ikky_pe/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
+</a>
 </p>
 
-<ul>
-    <li>🔭 I'm currently studying at <strong>Institut Bisnis dan Informatika (IBI) Kosgoro 1957</strong>.</li>
-    <li>🌱 I'm currently learning <strong>Full Stack</strong>.</li>
-    <li>💬 Ask me about <strong>HTML, CSS, PHP, Laravel, JavaScript</strong>.</li>
-    <li>📫 How to reach me <strong>muhamadrizkyherdiansyah@gmail.com</strong>.</li>
-    <li>⚡ Fun fact <strong>I think I'm handsome</strong>.</li>
-</ul>
+---
 
-<h3 align="center">Connect with me:</h3>
+## 📫 Contact
 
-<p align="center">
-    <a href="https://linkedin.com/in/muhamad-rizky-herdiansyah-7b602827a/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikkyrazzi" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/ikky_pe/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikkyrazzi" height="30" width="40" />
-    </a>
-</p>
+📧 **[muhamadrizkyherdiansyah@gmail.com](mailto:muhamadrizkyherdiansyah@gmail.com)**
 
-<h3 align="center">Languages and Tools:</h3>
+---
 
-<p align="center">
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.postman.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" />
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-</p>
+## 💬 Personal Statement
 
-</body>
-</html>
+> I focus on building real-world systems that solve business problems —
+> not just writing code, but delivering scalable and maintainable solutions.
