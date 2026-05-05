@@ -7,29 +7,41 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Who Am I
 
-I’m a Fullstack Developer focused on building **scalable web applications & internal systems**.
+I’m a developer who focuses on building **real-world systems**, not just websites.
 
-💡 I don’t just write code — I design and build **complete systems**:
+I design and develop:
 
-* Backend architecture (Laravel)
-* Frontend apps (Vue.js)
-* API integrations
-* Deployment (VPS & Docker)
+* scalable backend systems
+* structured REST APIs
+* fullstack applications
+* deployment-ready environments
 
-Currently moving towards:
-
-> ⚙️ **SaaS Architecture • Scalable Systems • DevOps (AWS & Kubernetes)**
+> 💡 I turn business needs into working systems.
 
 ---
 
-## 🏗️ What I Build
+## 🏗️ What I’ve Built
 
-* 🧾 **HRIS System** → Payroll, attendance, employee management
-* 🎫 **Ticketing System** → Helpdesk workflow (Jira-like)
-* 📡 **Monitoring System (NOC)** → Device tracking & real-time status
-* 📊 **Dashboard & Reporting** → Business insights & analytics
+### 🧾 HRIS System
+
+* Payroll, attendance, employee management
+* Multi-module architecture
+
+### 🎫 Helpdesk Ticketing System
+
+* Workflow-based system (Jira-like)
+* Status tracking & task assignment
+
+### 📡 Monitoring System (NOC)
+
+* Real-time device status
+* Logging & reporting system
+
+### 📊 Dashboard & Reporting
+
+* Data analytics & visualization
 
 ---
 
@@ -37,31 +49,23 @@ Currently moving towards:
 
 ### Backend
 
-<p>
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40"/>
-</p>
+* PHP (Laravel)
+* REST API Architecture
 
 ### Frontend
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
-</p>
+* Vue.js
+* JavaScript
 
 ### DevOps & Tools
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
+* Docker
+* VPS Deployment
+* Git & CI/CD (basic)
 
 ### Database
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-</p>
+* MySQL
 
 ---
 
@@ -75,13 +79,9 @@ Currently moving towards:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikkyrazzi&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikkyrazzi&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
-## 📊 Contribution Graph
+## 📊 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikkyrazzi&theme=tokyo-night" />
@@ -91,10 +91,10 @@ Currently moving towards:
 
 ## 🚀 Current Focus
 
-* 🔧 Building **multi-company SaaS systems**
-* 🐳 Improving **Docker-based deployment**
-* ☁️ Learning **AWS & Kubernetes**
-* ⚡ Optimizing **performance & scalable architecture**
+* Building **multi-company SaaS system**
+* Improving **Docker & deployment workflow**
+* Learning **AWS & Kubernetes**
+* Designing **scalable backend architecture**
 
 ---
 
@@ -111,13 +111,7 @@ Currently moving towards:
 
 ---
 
-## 📫 Contact
-
-📧 **[muhamadrizkyherdiansyah@gmail.com](mailto:muhamadrizkyherdiansyah@gmail.com)**
-
----
-
 ## 💬 Personal Statement
 
-> I focus on building real-world systems that solve business problems —
-> not just writing code, but delivering scalable and maintainable solutions.
+> I focus on building complete systems — from backend logic to deployment —
+> with scalability, maintainability, and real business impact in mind.
