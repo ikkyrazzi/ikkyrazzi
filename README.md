@@ -67,15 +67,7 @@ I am a results-driven **Full-Stack Developer** & **IT Professional** with nearly
   <img src="https://img.shields.io/badge/After%20Effects-CF96FD?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
 </p>
 
-<br/>
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=ikkyrazzi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=ikkyrazzi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 ---
 
