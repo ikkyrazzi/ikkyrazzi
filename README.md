@@ -26,7 +26,7 @@
 I am a results-driven **Full-Stack Developer** & **IT Professional** with nearly 3 years of experience building secure, scalable web & mobile applications and managing IT infrastructure. My primary expertise revolves around the **Laravel & JS/TS Ecosystems**, **Flutter for cross-platform mobile development**, paired with strong system administration and graphic design capabilities.
 
 - 🏢 Currently working as a **Full-Stack Developer** at **PT Indonesia Net (INET)**.
-- ⚡ **Core Stack:** PHP (Laravel), Vue.js + Inertia.js, React / Next.js, Flutter (Mobile), Node.js, and RESTful APIs.
+- ⚡ **Core Stack:** PHP (Laravel), Go (Golang), Vue.js + Inertia.js, React / Next.js, Flutter (Mobile), Node.js, and RESTful APIs.
 - 🗄️ **Databases:** MySQL, PostgreSQL, MS SQL Server, and Redis.
 - 🛠️ **Infrastructure & Security:** Linux Server Administration (Ubuntu), Nginx, Networking (VPN/Firewall), & System Security.
 - 🎨 **Creative Background:** Graphic Design & Video Editing (Adobe Creative Cloud & Figma).
@@ -38,6 +38,7 @@ I am a results-driven **Full-Stack Developer** & **IT Professional** with nearly
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
