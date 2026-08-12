@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Rizky Herdiansyah</h1>
 <p align="center">
-  <strong>Full-Stack Developer | IT Support & Infrastructure | Graphic Designer</strong>
+  <strong>Full-Stack Developer | Mobile App Developer | IT Support & Infrastructure | Graphic Designer</strong>
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 
 ### 👨‍💻 About Me
 
-I am a results-driven **Full-Stack Developer** & **IT Professional** with nearly 3 years of experience building secure, scalable web applications and managing IT infrastructure. My primary expertise revolves around the **Laravel & JS/TS Ecosystems**, paired with strong system administration and graphic design capabilities.
+I am a results-driven **Full-Stack Developer** & **IT Professional** with nearly 3 years of experience building secure, scalable web & mobile applications and managing IT infrastructure. My primary expertise revolves around the **Laravel & JS/TS Ecosystems**, **Flutter for cross-platform mobile development**, paired with strong system administration and graphic design capabilities.
 
 - 🏢 Currently working as a **Full-Stack Developer** at **PT Indonesia Net (INET)**.
-- ⚡ **Core Stack:** PHP (Laravel), Vue.js + Inertia.js, React / Next.js, Node.js, and RESTful APIs.
+- ⚡ **Core Stack:** PHP (Laravel), Vue.js + Inertia.js, React / Next.js, Flutter (Mobile), Node.js, and RESTful APIs.
 - 🗄️ **Databases:** MySQL, PostgreSQL, MS SQL Server, and Redis.
 - 🛠️ **Infrastructure & Security:** Linux Server Administration (Ubuntu), Nginx, Networking (VPN/Firewall), & System Security.
 - 🎨 **Creative Background:** Graphic Design & Video Editing (Adobe Creative Cloud & Figma).
@@ -48,6 +48,8 @@ I am a results-driven **Full-Stack Developer** & **IT Professional** with nearly
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -73,10 +75,6 @@ I am a results-driven **Full-Stack Developer** & **IT Professional** with nearly
   <img src="https://github-readme-stats-one.vercel.app/api?username=ikkyrazzi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   &nbsp;
   <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=ikkyrazzi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikkyrazzi&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="95%" />
 </p>
 
 ---
